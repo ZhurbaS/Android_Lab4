@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="audioplay">🎵 АУДІО ПЛЕЄР</string>
+    <string name="videoplay">🎬 ВІДЕО ПЛЕЄР</string>
+    <string name="filenotselected">Файл не обрано</string>
+    <string name="selectfilefromphone">📂 Обрати файл з телефону</string>
+    <string name="play">▶ Play</string>
+    <string name="pause">⏸ Pause</string>
+    <string name="stop">⏹ Stop</string>
+    <string name="backtomenu">Назад в меню</string>
+    <string name="back">Назад</string>
+    <string name="selectvideofromphone">📂 Обрати відео з телефону</string>
+    <string name="playfromethernet">🌐 Грати з Інтернету</string>
+    <string name="url_http">Введіть URL відео (http...)</string>
+</resources>
